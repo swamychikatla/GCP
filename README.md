@@ -24,5 +24,9 @@ Provide card details and click on Start My Free Trail.
 Why we need Operating System?
 We have one program created in some language like phyton or php,... and you want to run this program you need the operating system. Without operating system it is impossible to run the program. But if you want to run or boot the operating system we need the RAM and CPU. Without RAM and CPU you wont able to boot the operating system. If you want to install the operating system you need the HardDisk. HardDisk is typically known as Storage. (Storage is permanent, For temporary memory (RAM) is used). Typically RAM and CPU is known as Compute or Compute Unit. But if you want, data needs to store some data permanently (OS is store permanent after reboot also it doesn't remove)we need HardDisk typically known as storage or Storage Unit. If you want to run the program, sometimes program is also known as services. For example. one of the name of the service called as Web service, because you want to launch a website or App service, If you want to launch some app of java or python, etc... If you want to launch a program called Database Services you need the Operating System. For Operating system you need Compute Unit and Storage Unit. We need it so we need to purchase it as these are the devices invest your money to run the program.
 We have a Developer team and they deveoped a Website, Application, Database ,... we need to host our website for customers. (We have a client in the internet and we want the client to visit the website for example, ecommerece website.
-To launch a website you need a hardware. This hardware needs to be purchase 
+To launch a website you need a hardware. This hardware needs to be purchase, we require real public IP, we real internet connectivity, firewall, network devices, we need to hire a technical guy, databases team, IT involment, all we have to invest
+
+
+Google Compute Engine
+
 
