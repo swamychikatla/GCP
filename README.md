@@ -76,6 +76,23 @@ We have a different types of storage in GCP console depends up on the requiremen
 
 Use case is different and requirement is different.
 
+For network, we have a networking as a service called VPC network.
+![image](https://github.com/swamychikatla/GCP/assets/40513374/25385639-5715-47c7-8438-53eea5218062)
+VPC is the main service give you firewalls , routers , IP address based on the requirement.
+
+Storage where you install your operating system is known as Block storage.
+Hard Disk in laptop typically known as Block storage.
+Hard Disk is Block storage.
+
+In Compute Engine we have a product called Disks
+![image](https://github.com/swamychikatla/GCP/assets/40513374/98e0a574-755c-4801-88a9-96505c3f61f7)
+If you go fir Disks, it is Hard Disk or it is block storage.
+
+
+---> In AWS, 
+
+
+
 
 
 
