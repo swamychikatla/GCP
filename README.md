@@ -28,8 +28,19 @@ To launch a website you need a hardware. This hardware needs to be purchase, we 
 
 Now there are more thirdparty now a days more than decade. Now we dont want to invest upfront in our IT infrastructure. I dont want to hire some guys who manage by Operating system, Databases, My Security, My firewall, My network, My Ram, CPU. I don't want to purchase these items. There are lot od companies in the market who are doing business for us. Companies are called as Service Providers. They provided services to us. Companies are known as providers and they are providing services. So they are called as Service Providers.
 
-What are the services: If we go and ask provide the RAM and CPU. Yes they will provide us compute. Typically they use a term called compute as a service. They will p
+What are the services: If we go and ask provide the RAM and CPU. Yes they will provide us compute. Typically they use a term called compute as a service and they will provide. Don't need to give upfront amount. For example, for this compute unit if you purchase in real world it might cost 1000$. But here you need to pay anything as we don't no how much we are going to utilize more or less. This company work on a model for us and the model is called custome model (Pay as you go). As much you use, you have you pay. Depends on which service you need if you need RAM and CPU, ask we need compute service. If you need storage , It is storage as a service. We have some many like network a service , container service, Kubernetes service, Firewall as a service, Docker as a service, Function as a service, Machine learning a services. 
 
+Previously called as Service Providers. Now a days we use a term called Cloud computing.
+
+Different types of Cloud Computing:
+Public Cloud
+Private Cloud
+Hybrid Cloud.
+
+Anyone can use it, it is public cloud
+AWs from Amazon , Azure from Microsoft, Google Cloud Platform(GCP) is a product from Google. It is offering us a public cloud. It means anyone after create a account in platform as a indidivual or any other company can use the computing power of Google.
+
+RAM and CPU, Harddisk, Networking are called as Resources.
 Google Compute Engine
 
 
