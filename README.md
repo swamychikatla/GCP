@@ -41,6 +41,44 @@ Anyone can use it, it is public cloud
 AWs from Amazon , Azure from Microsoft, Google Cloud Platform(GCP) is a product from Google. It is offering us a public cloud. It means anyone after create a account in platform as a indidivual or any other company can use the computing power of Google.
 
 RAM and CPU, Harddisk, Networking are called as Resources.
-Google Compute Engine
+
+**Public Cloud Computing**
+Login to GCP
+![image](https://github.com/swamychikatla/GCP/assets/40513374/49822867-1afe-4576-9180-f691a858e2e3)
+We can demand google we need particular resource
+
+                              As-A-Service
+On-Demand --> Resources ---> Compute (RAM/CPU)
+                        ---> Storage (HardDisk)
+                        ---> Network (Router)
+
+
+Run or Launch OS in our Laptop is called Barematel 
+Launch OS on top of Virtual machine is called Virtualization
+Launch OS on top of Container is called as Containerization
+Launch OS on top of Cloud is called Cloud Computing. 
+   (In Cloud computing we didn't call the term called OS. We call it as Instances) In some of cloud computing it also called as Virtual Machines.
+    In GCP normally we call as Virtual machine.
+    If we go to Google cloud and say i want a compute service, i want to launch my virtual machine we have a product or service called Compute as a service. On top of the Compute as a service we can go and launch our virtual machine. The name of the service is called Google Compute Engine.
+
+In the console page, we have a navigation menu 
+![image](https://github.com/swamychikatla/GCP/assets/40513374/feba8e16-8e81-4496-8d1c-bd337bb504d9)
+Click on 3 lines, we can see all services
+![image](https://github.com/swamychikatla/GCP/assets/40513374/c9735c9c-37e3-479d-abe8-35675039fabe)
+Here we can see Compute Engine
+![image](https://github.com/swamychikatla/GCP/assets/40513374/ea889fb5-4fc0-4f40-b5d1-9b8c219ace35)
+
+If you want to utilize storage, we have different types of Storage (Object storage, block storage, file storage)
+Storage is mainly, to store data permanently. When ever you store your data permanently means after you reboot also it won't delete means permanent. In this we call it as persistant.
+
+We have a different types of storage in GCP console depends up on the requirement:
+![image](https://github.com/swamychikatla/GCP/assets/40513374/73ea7c21-f528-4633-8131-fefd04b8b7dc)
+
+Use case is different and requirement is different.
+
+
+
+
+
 
 
