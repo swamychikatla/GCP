@@ -89,9 +89,24 @@ In Compute Engine we have a product called Disks
 If you go fir Disks, it is Hard Disk or it is block storage.
 
 
----> In AWS, 
+---> In AWS, Google Compute Engine is known as EC2
+-----------> Block storage is known as EBS
+-----------> VPC is known as VPC.
 
+How to use Google Compute Engine (GCE)
+--------------------------------------
+![image](https://github.com/swamychikatla/GCP/assets/40513374/d98b1fcf-a170-4d32-b30a-a12e4cf77a3a)
+This service is used to launch a instance.
+![image](https://github.com/swamychikatla/GCP/assets/40513374/947a227b-a354-447c-8725-c4f4071523d0)
+OS will launch inside the datacenter of Google.
 
+Google Clod Platform(GCP) is running on one of the Datacenter of Google
+Google data centers are the large data center facilities Google uses to provide their services, which combine large drives, computer nodes organized in aisles of racks, internal and external networking, environmental controls (mainly cooling and humidification control), and operations software (especially as concerns load balancing and fault tolerance).
+Google owns and operates data centers all over the world, helping to keep the internet humming 24/7. Learn how our relentless focus on innovation has made our data centers some of the most high-performing, secure, reliable, and efficient data centers in the world.
+
+User also called as Tenant/Client.
+
+User/Tenant/Client----------------------------->GCP (Data Center)
 
 
 
