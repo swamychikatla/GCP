@@ -100,13 +100,24 @@ This service is used to launch a instance.
 ![image](https://github.com/swamychikatla/GCP/assets/40513374/947a227b-a354-447c-8725-c4f4071523d0)
 OS will launch inside the datacenter of Google.
 
-Google Clod Platform(GCP) is running on one of the Datacenter of Google
+Google Cloud Platform(GCP) is running on one of the Datacenter of Google
 Google data centers are the large data center facilities Google uses to provide their services, which combine large drives, computer nodes organized in aisles of racks, internal and external networking, environmental controls (mainly cooling and humidification control), and operations software (especially as concerns load balancing and fault tolerance).
 Google owns and operates data centers all over the world, helping to keep the internet humming 24/7. Learn how our relentless focus on innovation has made our data centers some of the most high-performing, secure, reliable, and efficient data centers in the world.
 
-User also called as Tenant/Client.
+If i need RAM & CPU, Google will provide from the datacenter only.
+
+Typically, when as a user if you go to google and say i  want to use your Cloud platform
+We are the user, in cloud world any user is known as user who use the cloud
+And User also called as Tenant/Client.
 
 User/Tenant/Client----------------------------->GCP (Data Center)
+
+Google Datacenters located in almost all countries.
+In India we have one data ceter in Mumbai.
+When ever they pick any country they launch atleast 2 or 3 data centers. where ever they launch the data centers. if you pick mumbai, they launch 3 data centers, 1a, 1b, 1c
+They use the call it as region. Here mumbai is a region
+
+
 
 
 
