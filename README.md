@@ -90,7 +90,9 @@ If you go fir Disks, it is Hard Disk or it is block storage.
 
 
 ---> In AWS, Google Compute Engine is known as EC2
+
 -----------> Block storage is known as EBS
+
 -----------> VPC is known as VPC.
 
 How to use Google Compute Engine (GCE)
@@ -116,6 +118,13 @@ Google Datacenters located in almost all countries.
 In India we have one data ceter in Mumbai.
 When ever they pick any country they launch atleast 2 or 3 data centers. where ever they launch the data centers. if you pick mumbai, they launch 3 data centers, 1a, 1b, 1c
 They use the call it as region. Here mumbai is a region
+Asia is one continental work on multi regional, one is mumbai and one is Singapore
+In Mumbai there are 3 data centers. 1a, 1b, 1c.
+This datacenters are also called as Zone. 1a is a zone.
+Cloud locations : Google Cloud has added new regions this year: Berlin (Germany), Doha (Qatar), Dammam (Saudi Arabia). Our private, software-defined network provides fast and reliable connections to users around the world.
+![image](https://github.com/swamychikatla/GCP/assets/40513374/e0ec342f-6e3e-433f-ade2-fde0f4a569af)
+
+![image](https://github.com/swamychikatla/GCP/assets/40513374/2f007bd7-80df-42ce-a454-5f23bf9b213d)
 
 
 
