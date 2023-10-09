@@ -131,11 +131,42 @@ GCP is one product from google who is giving yu cloud services.
 Cloud services are Compute, Network, storage, ...
 For Compute you have service called GCE.
 
+Every service is running one program and for that program google is giving one url that is interface (Application Programmubg Interface (API)).
+For every service Google has a API.
+Compute is a API,
+Storage is a different API,
+VPC has a different API.
+Machine Learning has a different API,
+Hadoop has a different API.....
+Like that for every service there is a different API.
 
+Even gmail also a different aPI. Google Maps has a different API.
+Initially when you create the account in GCP. Most of the API's are disabled.
+IF you want to use any service you need to enable the API.
 
+![image](https://github.com/swamychikatla/GCP/assets/40513374/3f01c288-f3ae-4f56-aa11-16e1ee403530)
+![image](https://github.com/swamychikatla/GCP/assets/40513374/585c7361-ec39-4600-9d0c-af10078a8b1a)
+If you want to use Google Compute Engine, you need to enable the compute Engine API
+![image](https://github.com/swamychikatla/GCP/assets/40513374/df3bd7e2-e527-4cb5-8346-8ce839b861d4)
+Click on Enable
+![image](https://github.com/swamychikatla/GCP/assets/40513374/606ff388-cb23-4a1c-99f9-b2346edf23d6)
+After enable you can see below screen
+![image](https://github.com/swamychikatla/GCP/assets/40513374/e52b3184-cf5f-475f-89d4-7388ca59848c)
 
-
-
-
+In every cloud all offered API. typically you have to connect through API.
+There are 3 ways to connect to API.
+1. one is Web UI through Console
+![image](https://github.com/swamychikatla/GCP/assets/40513374/ad2486ff-47f9-4cab-b0da-93d24848f2d0)
+internally you are connecting to the Google API.
+2. Command Line (CLI)
+   Through glcoud
+   ![image](https://github.com/swamychikatla/GCP/assets/40513374/a04c0f0b-eba2-48a6-89cc-455a6a25e5f2)
+   From the command line you can go and tell the google API to connect the service.
+3. Activate Cloudshell
+  ![image](https://github.com/swamychikatla/GCP/assets/40513374/bdf629d9-bb8c-4241-bf94-11dda460733f)
+  ![image](https://github.com/swamychikatla/GCP/assets/40513374/260a6747-3e3b-4a7b-8026-87c3d9152caa)
+  It launches one machine for us. and they launch one Linux OS for us.Almost all linux commands will run.
+![image](https://github.com/swamychikatla/GCP/assets/40513374/380b6f73-b658-4297-9b39-8bc64a46af4a)
+2:34
 
 
