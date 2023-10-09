@@ -126,6 +126,11 @@ Cloud locations : Google Cloud has added new regions this year: Berlin (Germany)
 
 ![image](https://github.com/swamychikatla/GCP/assets/40513374/2f007bd7-80df-42ce-a454-5f23bf9b213d)
 
+GCP is one product spread across the world globally .
+GCP is one product from google who is giving yu cloud services.
+Cloud services are Compute, Network, storage, ...
+For Compute you have service called GCE.
+
 
 
 
